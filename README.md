@@ -1,2 +1,2 @@
-# Js css3 html5 react training
+# Js training
 # just small apps and functions
